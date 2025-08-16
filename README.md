@@ -9,13 +9,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0f9d58&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Ujjawal+Singh;A+passionate+Full+Stack+Webdeveloper;and+CSE+undergrad+student+from+India" />
   </a>
 </p>
+
 ---
 
-
-<h2 align="center">
-  ## 💻 Tech Stack
-</h2>
-
+## 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,linux,flutter,cpp,c,react" />
 </p>
