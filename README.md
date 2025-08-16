@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f9d58&height=180&section=header&text=Ujjawal%20Singh&fontSize=40&fontColor=fff&animation=fadeIn" />
 </p>
-
 
 <p align="center">
   <a href="https://github.com/UjjawalChauhanSingh">
@@ -27,16 +25,16 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://twitter.com/yourTwitterHandle">
+  <a href="https://x.com/Ujjawal28980782">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/yourInstagramHandle">
+  <a href="https://www.instagram.com/ujawal_chauhan333/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/ujjawal-singh">
+  <a href="https://www.linkedin.com/in/ujjawal-singh-00a195323/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ujjawalsingh@gmail.com">
+  <a href="mailto:ujjawal.codes@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://ujjawalsingh.vercel.app">
