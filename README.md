@@ -28,24 +28,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjawalChauhanSingh&layout=compact&theme=default&cache_seconds=1000" height="180" />
 </p>
 
----
-
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://twitter.com/yourTwitterHandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/YourInstagramHandle" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/yourInstagramHandle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/ujjawal-singh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ujjawalsingh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://ujjawalsingh.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 <p align="center">
