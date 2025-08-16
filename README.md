@@ -1,9 +1,9 @@
-<!-- Banner -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f9d58&height=180&section=header&text=Ujjawal%20Singh&fontSize=40&fontColor=fff&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation -->
+
 <p align="center">
   <a href="https://github.com/UjjawalChauhanSingh">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0f9d58&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Ujjawal+Singh;A+passionate+Full+Stack+Webdeveloper;and+CSE+undergrad+student+from+India" />
@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjawalChauhanSingh&layout=compact&theme=default&cache_seconds=1000" height="180" />
 </p>
 
-## 📫 Connect with Me  
+## 🌐 Connect with Me  
 <p align="center">
   <a href="https://twitter.com/yourTwitterHandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
