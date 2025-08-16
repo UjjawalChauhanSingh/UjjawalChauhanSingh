@@ -10,7 +10,7 @@
   </a>
 </p>
 
----
+
 
 ## 💻 Tech Stack  
 <p align="center">
@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjawalChauhanSingh&layout=compact&theme=default&cache_seconds=1000" height="180" />
 </p>
-
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://twitter.com/yourTwitterHandle">
