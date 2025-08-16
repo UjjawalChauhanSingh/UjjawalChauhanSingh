@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f9d58&height=180&section=header&text=Ujjawal%20Singh&fontSize=40&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4B91&height=180&section=header&text=Ujjawal%20Singh&fontSize=40&fontColor=fff&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/UjjawalSingh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0f9d58&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Ujjawal+Singh;🚀+B.Tech+CSE+3rd+Year;💻+Aspiring+Developer;🌱+Learning+Dev+%2B+DSA;✨+Made+with+❤️+in+India+🇮🇳" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4B91&center=true&vCenter=true&width=500&lines=🚀+B.Tech+CSE+3rd+Year;💡+Aspiring+Developer;🌱+Learning+Dev+%2B+DSA;Made+with+❤️+in+India+🇮🇳" />
   </a>
 </p>
 
@@ -14,25 +14,28 @@
 
 ## 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,linux,flutter" />
+  <img src="https://skillicons.dev/icons?i=python,c++,java,js,html,css,git,linux,flutter" />
 </p>
 
 ---
 
-## 📊 GitHub Overview  
+## 🔥 GitHub Stats  
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=UjjawalChauhanSingh&show_icons=true&theme=default&cache_seconds=1000" height="160"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjawalChauhanSingh&theme=default&cache_seconds=1000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UjjawalSingh&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjawalSingh&theme=radical" height="160" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjawalSingh&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
-## ⚡ About Me  
-- 🎓 3rd Year B.Tech CSE Student  
-- 🌱 Currently exploring **Web Dev + DSA**  
-- 🎯 Goal: Build impactful products that **solve real problems**  
+## ⚡ Fun Corner  
+- 🎯 Goal: Build products that **help people**  
 - ⚡ Loves: Whiteboard brainstorming, creative coding & cricket 🏏  
+- 🐍 My GitHub contribution snake:  
+  ![snake gif](https://github.com/UjjawalSingh/UjjawalSingh/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
