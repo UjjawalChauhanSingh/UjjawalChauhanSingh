@@ -24,10 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=UjjawalChauhanSingh&show_icons=true&theme=default&cache_seconds=1000" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjawalChauhanSingh&theme=default&cache_seconds=1000" height="160" />
 </p>
-
----
-
-## 📈 Most Used Languages  
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjawalChauhanSingh&layout=compact&theme=default&cache_seconds=1000" height="180" />
 </p>
@@ -54,5 +51,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UjjawalChauhanSingh&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
