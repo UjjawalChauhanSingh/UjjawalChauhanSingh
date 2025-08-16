@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/UjjawalChauhanSingh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0f9d58&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Ujjawal+Singh;🚀+B.Tech+CSE+3rd+Year;💻+Aspiring+Developer;🌱+Learning+Dev+%2B+DSA;✨+Made+with+❤️+in+India+🇮🇳" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0f9d58&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Ujjawal+Singh;🚀+B.Tech+CSE+3rd+Year;💻+Aspiring+Developer;🌱+Learning+Dev+%2B+DSA" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 GitHub Overview  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UjjawalChauhanSingh&show_icons=true&theme=default&cache_seconds=1000" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjawalChauhanSingh&theme=default&cache_seconds=1000" height="160" />
@@ -51,7 +51,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=UjjawalChauhanSingh&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+
 
