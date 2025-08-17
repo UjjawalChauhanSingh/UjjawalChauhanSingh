@@ -14,8 +14,8 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git,linux,flutter,cpp,c" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UjjawalChauhanSingh&show_icons=true&theme=tokyonight&cache_seconds=1000" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjawalChauhanSingh&theme=default&cache_seconds=1000" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UjjawalChauhanSingh&show_icons=true&theme=dracula&cache_seconds=1000" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjawalChauhanSingh&theme=dracula&cache_seconds=1000" height="160" />
 </p>
  
 <p align="center">
