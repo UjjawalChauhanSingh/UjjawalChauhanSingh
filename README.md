@@ -11,7 +11,7 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,linux,flutter,cpp,c,react" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,linux,flutter,cpp,c,react,typscript" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UjjawalChauhanSingh&show_icons=true&theme=default&cache_seconds=1000" height="160" />
