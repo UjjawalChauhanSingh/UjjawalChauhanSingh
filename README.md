@@ -11,15 +11,15 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,TypeScript,html,css,git,linux,flutter,cpp,c,react" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git,linux,flutter,cpp,c" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UjjawalChauhanSingh&show_icons=true&theme=default&cache_seconds=1000" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjawalChauhanSingh&theme=default&cache_seconds=1000" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UjjawalChauhanSingh&show_icons=true&theme=tokyonight&cache_seconds=1000" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjawalChauhanSingh&theme=github_light&cache_seconds=1000" height="160" />
 </p>
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjawalChauhanSingh&layout=compact&theme=default&cache_seconds=1000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjawalChauhanSingh&layout=compact&theme=dracula&cache_seconds=1000" height="180" />
 </p>
 
 
