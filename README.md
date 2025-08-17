@@ -15,7 +15,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UjjawalChauhanSingh&show_icons=true&theme=tokyonight&cache_seconds=1000" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjawalChauhanSingh&theme=github_light&cache_seconds=1000" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjawalChauhanSingh&theme=default&cache_seconds=1000" height="160" />
 </p>
  
 <p align="center">
